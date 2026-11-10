@@ -1,6 +1,6 @@
 cask "localhost" do
-  version "0.5.2"
-  sha256 "c22a2be0ae03017d5ddf6e0875693e4570c9e25643048713a6e71b961fdd7bd4"
+  version "0.5.3"
+  sha256 "717c0669d81a915d49361a1a3d320f438580dd017d4b8bb0970d6f08415d62b5"
 
   url "https://github.com/marcellosso/localhost/releases/download/v#{version}/localhost-#{version}.dmg"
   name "localhost"
